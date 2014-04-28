@@ -12,6 +12,7 @@ public class ClaseNereBea {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Holi mundo");
+        System.out.println("Nuevos cambios");
     }
     
 }
