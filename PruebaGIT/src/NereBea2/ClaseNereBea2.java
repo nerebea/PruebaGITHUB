@@ -13,6 +13,7 @@ package NereBea2;
 public class ClaseNereBea2 {
     public static void main(String[] args) {
         System.out.println("Hola clase");
+        System.out.println("Hola mundo");
     }
     
 }
