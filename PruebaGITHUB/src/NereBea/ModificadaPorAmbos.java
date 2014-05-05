@@ -9,8 +9,8 @@ package NereBea;
  * @author Nocturno
  */
 public class ModificadaPorAmbos {
-    public void metodo(){
-        System.out.println("Creamos un metodo");
+    public void nuevoMetodo(){
+        System.out.println("Creamos otro método");
     }
     
 }
